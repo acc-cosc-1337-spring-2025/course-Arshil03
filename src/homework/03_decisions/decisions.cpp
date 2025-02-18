@@ -2,3 +2,8 @@
 
 
 //Write code for function(s) code here
+using std::cout;
+using std::cin;
+
+int main()
+
